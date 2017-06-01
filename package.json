@@ -1,0 +1,19 @@
+{
+  "name": "cafecomamor",
+  "version": "1.0.0",
+  "description": "servidor para o site cafe com amor",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "cafecomamor",
+    "cafe",
+    "amor"
+  ],
+  "author": "Wesley Azevedo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
