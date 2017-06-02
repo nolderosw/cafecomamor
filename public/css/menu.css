@@ -5,7 +5,9 @@
 	overflow: hidden;
 	padding-left: 67px;
 }
-
+.bg_menu{
+	background-image: url(../images/back_menu.jpeg);
+}
 nav.bt-menu  ul li {
 	font: bold 18px/29px 'Open Sans', sans-serif;
 	color: #fff;
@@ -19,7 +21,7 @@ nav.bt-menu  ul li:first-child+li+li {
 }
 
 nav.bt-menu  ul li a:hover, nav ul li.current  {
-	color: #5f5e4e;
+	color: #d7d7b1;
 }
 
 .container {
@@ -59,7 +61,7 @@ nav.bt-menu  ul li a:hover, nav ul li.current  {
 .bt-menu-trigger {
 	position: absolute;
 	top: 0;
-	left: 50%;
+	left: 48%;
 	z-index: 100;
 	display: block;
 	margin-left: -60px;
